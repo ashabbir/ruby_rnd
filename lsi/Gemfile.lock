@@ -1,0 +1,14 @@
+GEM
+  specs:
+    classifier-reborn (2.0.4)
+      fast-stemmer (~> 1.0)
+    fast-stemmer (1.0.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  classifier-reborn
+
+BUNDLED WITH
+   1.11.2
